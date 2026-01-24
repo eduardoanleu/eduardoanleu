@@ -1,12 +1,34 @@
-import { Component, signal } from '@angular/core';
-import { RouterOutlet } from '@angular/router';
+import { Component, computed, signal, effect } from '@angular/core';
 
 @Component({
   selector: 'app-root',
-  imports: [RouterOutlet],
-  templateUrl: './app.html',
-  styleUrl: './app.css'
+  imports: [],
+  templateUrl: './app.html'
 })
 export class App {
-  protected readonly title = signal('Semana1');
+  contador = signal(0);
+  titulo = 'Dale de comer al gatito';
+
+  estaLleno = computed(() => this.contador() >= 25);
+  audio = new Audio('assets/sonido-victoria.mp3');
+
+  constructor() {
+    effect(() => {
+      this.audio.volume = 0.3;
+      if (this.estaLleno()) {
+        this.audio.play();
+      } else {
+        this.audio.pause();
+        this.audio.currentTime = 0;
+      }
+    });
+  }
+
+  incrementar(): void {
+    this.contador.update((valor) => valor + 1);
+  }
+
+  reiniciar(): void {
+    this.contador.set(0);
+  }
 }
