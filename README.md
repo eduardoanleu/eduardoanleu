@@ -1,59 +1,25 @@
-# Semana1
+# Hi, I'm Eduardo Anleu
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.1.1.
+### Mood: Reposaito
 
-## Development server
+- 🔭 I'm currently working on me, myself and i**
 
-To start a local development server, run:
+- 🌱 I'm currently learning a bunch of things
 
-```bash
-ng serve
-```
+- 👯 I'm looking to collaborate with Smart people
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+- 🤝 I'm looking for help with everything i can
 
-## Code scaffolding
+- 💬 Ask me about anything you want
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+- 📫 How to reach me **eduardo.anleu@galileo.edu**
 
-```bash
-ng generate component component-name
-```
+- ⚡ Fun fact: **I have a little game called Gato-Pescado (you can check it in my github profile)**
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/eduardoanleu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="eduardoanleu" height="30" width="40" /></a>
+</p>
 
-```bash
-ng generate --help
-```
-
-## Building
-
-To build the project run:
-
-```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Vitest](https://vitest.dev/) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
