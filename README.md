@@ -2,7 +2,7 @@
 
 ### Mood: Reposaito
 
-- 🔭 I'm currently working on me, myself and i**
+- 🔭 I'm currently working on me, myself and i
 
 - 🌱 I'm currently learning a bunch of things
 
