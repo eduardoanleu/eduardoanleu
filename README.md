@@ -6,13 +6,13 @@
 
 - 🌱 I'm currently learning a bunch of things
 
-- 👯 I'm looking to collaborate with Smart people
+- 👯 I'm looking to collaborate with smart people
 
 - 🤝 I'm looking for help with everything i can
 
 - 💬 Ask me about anything you want
 
-- 📫 How to reach me **eduardo.anleu@galileo.edu**
+- 📫 How to reach me: **eduardo.anleu@galileo.edu**
 
 - ⚡ Fun fact: **I have a little game called Gato-Pescado (you can check it out in my repositories)**
 
