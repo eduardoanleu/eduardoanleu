@@ -14,7 +14,7 @@
 
 - 📫 How to reach me: **eduardo.anleu@galileo.edu**
 
-- ⚡ Fun fact: **I have a little game called Gato-Pescado (you can check it out in my repositories)**
+- ⚡ Fun fact: **I have a little game called Gato-Pescado [Check it Out](https://gato-pescado.web.app)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
