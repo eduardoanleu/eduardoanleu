@@ -8,7 +8,7 @@
 
 - 👯 I'm looking to collaborate with smart people
 
-- 🤝 I'm looking for help with everything i can
+- 🤝 I'm looking to help with everything i can
 
 - 💬 Ask me about anything you want
 
