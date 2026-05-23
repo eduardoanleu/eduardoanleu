@@ -1,22 +1,12 @@
 # Hi, I'm Eduardo Anleu
 
-### Mood: Reposaito
-
-- 🔭 I'm currently working on me, myself and i
-
-- 🌱 I'm currently learning a bunch of things
-
-- 👯 I'm looking to collaborate with smart people
-
-- 🤝 I'm looking to help with everything i can
-
-- 💬 Ask me about anything you want
-
-- 📫 How to reach me: **eduardo.anleu@galileo.edu**
-
-- ⚡ Fun fact: **I have a little game called Gato-Pescado: [Check it Out](https://gato-pescado.web.app)**
+<h4 align="left">I have a bit of experience on making web apps, currently learning more about it.<br><br>Some proyects: <br><br>- Betting pool for World Cup 2026<br>- Little clicking game about a cat<br>- General E-commerce page</h4>
 
 ##
+
+<h3 align="left">Connect with me:</h3>
+
+**eduanleu789@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
@@ -54,7 +44,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
-
-##
 
 <img src="https://raw.githubusercontent.com/eduardoanleu/eduardoanleu/snake-output/snake.svg" alt="Snake animation" />
