@@ -1,6 +1,6 @@
 # Hi, I'm Eduardo Anleu
 
-<h4 align="left">I have a bit of experience on making web apps, currently learning more about it.<br><br>Some proyects: <br><br>- Betting pool for World Cup 2026<br><br>- QR Generator With Styles<br>- Little clicking game about a cat<br>- General E-commerce page</h4>
+<h4 align="left">I have a bit of experience on making web apps, currently learning more about it.<br><br>Some proyects: <br><br>- Betting pool for World Cup 2026<br>- QR Generator With Styles<br>- Little clicking game about a cat<br>- General E-commerce page</h4>
 
 ##
 
